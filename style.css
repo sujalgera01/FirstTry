@@ -1,0 +1,63 @@
+*{
+    margin=0;
+    padding=0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 75px;
+}
+
+h1,h2,h3{
+    color: black;
+}
+
+
+h1{
+    font-family: fantasy;
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+.intro{
+    color:#191818;
+    margin-bottom: auto;
+    font-family: cursive
+    
+    
+}
+
+.hello{
+    width:2500px;
+}
+
+.benefit{
+    color: #363434;
+    margin: auto;
+    border-bottom: 10px solid black;
+}
+
+.author{
+    color: #575555;
+    float: left;
+    margin-left: 30px;
+    
+    
+}
+.author-text{
+    margin: 50px;
+    padding-top: 25%;
+    font-family: monospace
+    
+}
+
+.author img{
+    border-radius: 50%;
+    float: left;
+    margin-right: 50px;
+}
+
+.main-img{
+    padding-top: 30px;
+    border-radius: 50%;
+}
